@@ -12,7 +12,7 @@
 
 ---
 ## Feedback
-Please raise an issue in [Github][url] if you want any additional features to be added to the quiz! :simple_smile:
+Please raise an issue in [Github][url] if you want any additional features to be added to the quiz! :slightly_smiling_face:
 
 [email]: preethi.ganeshan@hey.com
 [url]: https://github.com/preethiganeshan-dev/Do-you-know-CHALK-CLI-App/issues
